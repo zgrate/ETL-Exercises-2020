@@ -1,0 +1,256 @@
+﻿LookupType;LookupValue;LookupName
+TowingArticulation;0;No tow/articulation
+TowingArticulation;1;Articulated vehicle
+TowingArticulation;2;Double or multiple trailer
+TowingArticulation;3;Caravan
+TowingArticulation;4;Single trailer
+TowingArticulation;5;Other tow
+TowingArticulation;9;unknown (self reported)
+TowingArticulation;-1;Data missing or out of range
+HitObjectInCarriageway;0;None
+HitObjectInCarriageway;1;Previous accident
+HitObjectInCarriageway;2;Road works
+HitObjectInCarriageway;4;Parked vehicle
+HitObjectInCarriageway;5;Bridge (roof)
+HitObjectInCarriageway;6;Bridge (side)
+HitObjectInCarriageway;7;Bollard or refuge
+HitObjectInCarriageway;8;Open door of vehicle
+HitObjectInCarriageway;9;Central island of roundabout
+HitObjectInCarriageway;10;Kerb
+HitObjectInCarriageway;11;Other object
+HitObjectInCarriageway;12;Any animal (except ridden horse)
+HitObjectInCarriageway;99;unknown (self reported)
+HitObjectInCarriageway;-1;Data missing or out of range
+JunctionLocation;0;Not at or within 20 metres of junction
+JunctionLocation;1;Approaching junction or waiting/parked at junction approach
+JunctionLocation;2;Cleared junction or waiting/parked at junction exit
+JunctionLocation;3;Leaving roundabout
+JunctionLocation;4;Entering roundabout
+JunctionLocation;5;Leaving main road
+JunctionLocation;6;Entering main road
+JunctionLocation;7;Entering from slip road
+JunctionLocation;8;Mid Junction - on roundabout or on main road
+JunctionLocation;9;unknown (self reported)
+JunctionLocation;-1;Data missing or out of range
+VehicleLeavingCarriageway;0;Did not leave carriageway
+VehicleLeavingCarriageway;1;Nearside
+VehicleLeavingCarriageway;2;Nearside and rebounded
+VehicleLeavingCarriageway;3;Straight ahead at junction
+VehicleLeavingCarriageway;4;Offside on to central reservation
+VehicleLeavingCarriageway;5;Offside on to centrl res + rebounded
+VehicleLeavingCarriageway;6;Offside - crossed central reservation
+VehicleLeavingCarriageway;7;Offside
+VehicleLeavingCarriageway;8;Offside and rebounded
+VehicleLeavingCarriageway;9;unknown (self reported)
+VehicleLeavingCarriageway;-1;Data missing or out of range
+SkiddingOverturning;0;None
+SkiddingOverturning;1;Skidded
+SkiddingOverturning;2;Skidded and overturned
+SkiddingOverturning;3;Jackknifed
+SkiddingOverturning;4;Jackknifed and overturned
+SkiddingOverturning;5;Overturned
+SkiddingOverturning;9;unknown (self reported)
+SkiddingOverturning;-1;Data missing or out of range
+PointOfImpact;0;Did not impact
+PointOfImpact;1;Front
+PointOfImpact;2;Back
+PointOfImpact;3;Offside
+PointOfImpact;4;Nearside
+PointOfImpact;9;unknown (self reported)
+PointOfImpact;-1;Data missing or out of range
+HitObjectOffCarriageway;0;None
+HitObjectOffCarriageway;1;Road sign or traffic signal
+HitObjectOffCarriageway;2;Lamp post
+HitObjectOffCarriageway;3;Telegraph or electricity pole
+HitObjectOffCarriageway;4;Tree
+HitObjectOffCarriageway;5;Bus stop or bus shelter
+HitObjectOffCarriageway;6;Central crash barrier
+HitObjectOffCarriageway;7;Near/Offside crash barrier
+HitObjectOffCarriageway;8;Submerged in water
+HitObjectOffCarriageway;9;Entered ditch
+HitObjectOffCarriageway;10;Other permanent object
+HitObjectOffCarriageway;11;Wall or fence
+HitObjectOffCarriageway;99;unknown (self reported)
+HitObjectOffCarriageway;-1;Data missing or out of range
+VehicleManoeuvre;1;Reversing
+VehicleManoeuvre;2;Parked
+VehicleManoeuvre;3;Waiting to go - held up
+VehicleManoeuvre;4;Slowing or stopping
+VehicleManoeuvre;5;Moving off
+VehicleManoeuvre;6;U-turn
+VehicleManoeuvre;7;Turning left
+VehicleManoeuvre;8;Waiting to turn left
+VehicleManoeuvre;9;Turning right
+VehicleManoeuvre;10;Waiting to turn right
+VehicleManoeuvre;11;Changing lane to left
+VehicleManoeuvre;12;Changing lane to right
+VehicleManoeuvre;13;Overtaking moving vehicle - offside
+VehicleManoeuvre;14;Overtaking static vehicle - offside
+VehicleManoeuvre;15;Overtaking - nearside
+VehicleManoeuvre;16;Going ahead left-hand bend
+VehicleManoeuvre;17;Going ahead right-hand bend
+VehicleManoeuvre;18;Going ahead other
+VehicleManoeuvre;99;unknown (self reported)
+VehicleManoeuvre;-1;Data missing or out of range
+JourneyPurpose;1;Journey as part of work
+JourneyPurpose;2;Commuting to/from work
+JourneyPurpose;3;Taking pupil to/from school
+JourneyPurpose;4;Pupil riding to/from school
+JourneyPurpose;5;Other
+JourneyPurpose;6;Not known
+JourneyPurpose;15;Other/Not known
+JourneyPurpose;-1;Data missing or out of range
+Gender;1;Male
+Gender;2;Female
+Gender;9;unknown (self reported)
+Gender;-1;Data missing or out of range
+AgeBand;1;0 - 5
+AgeBand;2;06.paź
+AgeBand;3;lis.15
+AgeBand;4;16 - 20
+AgeBand;5;21 - 25
+AgeBand;6;26 - 35
+AgeBand;7;36 - 45
+AgeBand;8;46 - 55
+AgeBand;9;56 - 65
+AgeBand;10;66 - 75
+AgeBand;11;Over 75
+AgeBand;-1;Data missing or out of range
+VehicleType;1;Pedal cycle
+VehicleType;2;Motorcycle 50cc and under
+VehicleType;3;Motorcycle 125cc and under
+VehicleType;4;Motorcycle over 125cc and up to 500cc
+VehicleType;5;Motorcycle over 500cc
+VehicleType;8;Taxi/Private hire car
+VehicleType;9;Car
+VehicleType;10;Minibus (8 - 16 passenger seats)
+VehicleType;11;Bus or coach (17 or more pass seats)
+VehicleType;16;Ridden horse
+VehicleType;17;Agricultural vehicle
+VehicleType;18;Tram
+VehicleType;19;Van / Goods 3.5 tonnes mgw or under
+VehicleType;20;Goods over 3.5t. and under 7.5t
+VehicleType;21;Goods 7.5 tonnes mgw and over
+VehicleType;22;Mobility scooter
+VehicleType;23;Electric motorcycle
+VehicleType;90;Other vehicle
+VehicleType;97;Motorcycle - unknown cc
+VehicleType;98;Goods vehicle - unknown weight
+VehicleType;99;Unknown vehicle type (self rep only)
+VehicleType;103;Motorcycle - Scooter (1979-1998)
+VehicleType;104;Motorcycle (1979-1998)
+VehicleType;105;Motorcycle - Combination (1979-1998)
+VehicleType;106;Motorcycle over 125cc (1999-2004)
+VehicleType;108;Taxi (excluding private hire cars) (1979-2004)
+VehicleType;109;Car (including private hire cars) (1979-2004)
+VehicleType;110;Minibus/Motor caravan (1979-1998)
+VehicleType;113;Goods over 3.5 tonnes (1979-1998)
+VehicleType;-1;Data missing or out of range
+SteeringWheelSide;1;Right
+SteeringWheelSide;2;Left
+SteeringWheelSide;9;Unknown
+SteeringWheelSide;-1;Data missing or out of range
+CasualtyClass;1;Driver or rider
+CasualtyClass;2;Passenger
+CasualtyClass;3;Pedestrian
+CasualtyType;0;Pedestrian
+CasualtyType;1;Cyclist
+CasualtyType;2;Motorcycle 50cc and under rider or passenger
+CasualtyType;3;Motorcycle 125cc and under rider or passenger
+CasualtyType;4;Motorcycle over 125cc and up to 500cc rider or  passenger
+CasualtyType;5;Motorcycle over 500cc rider or passenger
+CasualtyType;8;Taxi/Private hire car occupant
+CasualtyType;9;Car occupant
+CasualtyType;10;Minibus (8 - 16 passenger seats) occupant
+CasualtyType;11;Bus or coach occupant (17 or more pass seats)
+CasualtyType;16;Horse rider
+CasualtyType;17;Agricultural vehicle occupant
+CasualtyType;18;Tram occupant
+CasualtyType;19;Van / Goods vehicle (3.5 tonnes mgw or under) occupant
+CasualtyType;20;Goods vehicle (over 3.5t. and under 7.5t.) occupant
+CasualtyType;21;Goods vehicle (7.5 tonnes mgw and over) occupant
+CasualtyType;22;Mobility scooter rider
+CasualtyType;23;Electric motorcycle rider or passenger
+CasualtyType;90;Other vehicle occupant
+CasualtyType;97;Motorcycle - unknown cc rider or passenger
+CasualtyType;98;Goods vehicle (unknown weight) occupant
+CasualtyType;99;Unknown vehicle type (self rep only)
+CasualtyType;103;Motorcycle - Scooter (1979-1998)
+CasualtyType;104;Motorcycle (1979-1998)
+CasualtyType;105;Motorcycle - Combination (1979-1998)
+CasualtyType;106;Motorcycle over 125cc (1999-2004)
+CasualtyType;108;Taxi (excluding private hire cars) (1979-2004)
+CasualtyType;109;Car (including private hire cars) (1979-2004)
+CasualtyType;110;Minibus/Motor caravan (1979-1998)
+CasualtyType;113;Goods over 3.5 tonnes (1979-1998)
+BusPassenger;0;Not a bus or coach passenger
+BusPassenger;1;Boarding
+BusPassenger;2;Alighting
+BusPassenger;3;Standing passenger
+BusPassenger;4;Seated passenger
+BusPassenger;9;unknown (self reported)
+BusPassenger;-1;Data missing or out of range
+CarPassenger;0;Not car passenger
+CarPassenger;1;Front seat passenger
+CarPassenger;2;Rear seat passenger
+CarPassenger;9;unknown (self reported)
+CarPassenger;-1;Data missing or out of range
+UrbanRuralArea;1;Urban
+UrbanRuralArea;2;Rural
+UrbanRuralArea;3;Unallocated
+UrbanRuralArea;-1;Data missing or out of range
+WeatherCondition;1;Fine no high winds
+WeatherCondition;2;Raining no high winds
+WeatherCondition;3;Snowing no high winds
+WeatherCondition;4;Fine + high winds
+WeatherCondition;5;Raining + high winds
+WeatherCondition;6;Snowing + high winds
+WeatherCondition;7;Fog or mist
+WeatherCondition;8;Other
+WeatherCondition;9;Unknown
+WeatherCondition;-1;Data missing or out of range
+RoadSurfaceCondition;1;Dry
+RoadSurfaceCondition;2;Wet or damp
+RoadSurfaceCondition;3;Snow
+RoadSurfaceCondition;4;Frost or ice
+RoadSurfaceCondition;5;Flood over 3cm. deep
+RoadSurfaceCondition;6;Oil or diesel
+RoadSurfaceCondition;7;Mud
+RoadSurfaceCondition;-1;Data missing or out of range
+RoadSurfaceCondition;9;unknown (self reported)
+SpecialConditionAtSite;0;None
+SpecialConditionAtSite;1;Auto traffic signal - out
+SpecialConditionAtSite;2;Auto signal part defective
+SpecialConditionAtSite;3;Road sign or marking defective or obscured
+SpecialConditionAtSite;4;Roadworks
+SpecialConditionAtSite;5;Road surface defective
+SpecialConditionAtSite;6;Oil or diesel
+SpecialConditionAtSite;7;Mud
+SpecialConditionAtSite;-1;Data missing or out of range
+SpecialConditionAtSite;9;unknown (self reported)
+RoadClass;0;Not at junction or within 20 metres
+RoadClass;1;Motorway
+RoadClass;2;A(M)
+RoadClass;3;A
+RoadClass;4;B
+RoadClass;5;C
+RoadClass;6;Unclassified
+RoadType;1;Roundabout
+RoadType;2;One way street
+RoadType;3;Dual carriageway
+RoadType;6;Single carriageway
+RoadType;7;Slip road
+RoadType;9;Unknown
+RoadType;12;One way street/Slip road
+RoadType;-1;Data missing or out of range
+LightCondition;1;Daylight
+LightCondition;4;Darkness - lights lit
+LightCondition;5;Darkness - lights unlit
+LightCondition;6;Darkness - no lighting
+LightCondition;7;Darkness - lighting unknown
+LightCondition;-1;Data missing or out of range
+Severity;1;Fatal
+Severity;2;Serious
+Severity;3;Slight
+Gender;3;Not known
+RoadClass;-1;Unknown

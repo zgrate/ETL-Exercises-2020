@@ -1,0 +1,1 @@
+INSERT INTO dbo.[Klienci] (nazwa, adres, email, nr_telefonu, typ_klienta) VALUES ('Adam Abacki', 'Adama Mickiewicza 20, 60-100 Poznan', 'a@a.pl', 111222333, 'Osoba Prywatna')
